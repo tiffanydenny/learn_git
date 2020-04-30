@@ -4,6 +4,6 @@ This rudimentary website was me, playing around with Git. It is a sample website
 
 It includes a couple of links and animal photos, but is otherwise unremarkable. I did, however, learn some HTML, as well as how to navigate GitHub.
 
-If you want to see it in all it's glory, visit the [*Live Site*](tiffanydenny.github.io/website). 
+If you want to see it in all it's glory, visit the [*Live Site*](http://tiffanydenny.github.io/website). 
 
 [*Official Git Documentation*](https://git-scm.com/doc)
